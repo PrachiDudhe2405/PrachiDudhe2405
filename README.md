@@ -2,15 +2,16 @@
 
 # Hi, I'm Prachi Dudhe 👋
 
-### Data Scientist · ML Engineer · Full-Stack Developer
+### Data Analyst · Data Scientist · ML Researcher
 
-*M.S. Data Science (ECE Track) @ Texas A&M University*
+*M.S. Data Science (ECE Track) @ Texas A&M University · GPA 3.5/4.0*
+*2+ Years Industry Experience · Tata Consultancy Services*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-prachi--dudhe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prachi-dudhe)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Netflix%20Style-E50914?style=for-the-badge&logo=netflix&logoColor=white)](https://prachidudhe2405.github.io/netflix_portfolio)
 [![Email](https://img.shields.io/badge/Email-pra24@tamu.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pra24@tamu.edu)
 
-**🟢 Open to Full-Time Roles in Data Science, ML Engineering & SWE — Starting 2025**
+**🟢 Open to Full-Time Roles in Data Analytics, Data Science & ML Engineering**
 
 </div>
 
@@ -18,62 +19,84 @@
 
 ## 🙋‍♀️ About Me
 
-I'm a grad student at Texas A&M building at the intersection of **machine learning, data engineering, and full-stack development**. I love turning messy real-world data into clean, impactful systems — whether that's a computer vision model, an AI-powered search tool, or an interactive web app.
+I'm a data professional with **2+ years of industry experience** (Tata Consultancy Services) and an MS in Data Science at Texas A&M. I specialize in turning messy, complex data into clean pipelines, reliable dashboards, and actionable insights — for both technical teams and senior leadership.
 
-- 🔭 Currently working on **AI-driven resume matching** and **deep learning pipelines**
-- 🌱 Learning more about **LLMs, RAG systems, and production ML**
-- 💬 Ask me about **PyTorch, React, FAISS, or anything data**
-- 📍 Based in **Texas, USA**
+- 🏢 Former **Data Analyst @ TCS** — built KPI frameworks, automated pipelines, and dashboards across sales, supply chain & operations
+- 🔬 **Research Data Engineer** — co-developed AgriChat, a governed query system from 29 heterogeneous source documents, published as peer-reviewed research
+- 📊 Passionate about **data quality, statistical analysis, and making data accessible** to non-technical stakeholders
+- 🌱 Currently deepening expertise in **LLMs, RAG systems, and production ML pipelines**
+- 📍 Based in **College Station, TX** · Open to relocation
+
+---
+
+## 💼 Experience Highlights
+
+**Data Analyst — Tata Consultancy Services** *(Oct 2022 – Jul 2024)*
+- Reduced data errors by **25%** with automated validation frameworks across enterprise datasets
+- Cut manual reporting effort by **60%** through SQL query automation and scheduled dashboards
+- Delivered analytical solutions with a **95% acceptance rate** across engineering, finance & ops
+
+**Research Data Engineer — Texas A&M University – Corpus Christi** *(Aug–Dec 2025)*
+- Built AgriChat: converted **29 inconsistent source documents** into a governed, queryable dataset
+- Published methodology and findings as **peer-reviewed research**
+
+**Data Science Intern — Sulzer India** *(Jun–Jul 2025)*
+- Built a production data pipeline processing **5,000+ documents** with real-time monitoring dashboards
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🎯 TalentSync — AI Resume Matching System
-> Semantic search + RAG explanations + career prediction  
-> **85% retrieval relevance · 80% prediction accuracy**  
-> `Python` `Streamlit` `FAISS` `SentenceTransformers` `NLP`
+### 📊 Analytics Dashboard with Data Quality Framework
+> End-to-end data quality pipeline with automated validation, ML-based imputation & anomaly detection  
+> **97% validation accuracy · 20% reliability improvement** across 10K+ records  
+> `Python` `Pandas` `SQL` `Power BI` `scikit-learn`
 
-### 🖼️ Image Classification on CIFAR-10
-> ResNet-34 pipeline with hyperparameter tuning and SVM benchmarking  
-> **95% accuracy** on 60,000-image dataset  
-> `Python` `PyTorch` `ResNet` `SVM` · [Live Demo →](https://ecencifar10project.netlify.app)
+### 🌾 AgriChat — Agricultural Data Query System
+> Converted 29 heterogeneous trial reports into a governed dataset enabling cross-county, cross-year analysis  
+> Built self-service semantic search for non-technical stakeholders · Published as peer-reviewed research  
+> `Python` `NLP` `SQL` `RAG` `Data Governance`
 
-### 🚗 YOLOv8 Traffic Monitoring
-> Real-time vehicle & pedestrian detection from video streams  
-> **761 vehicles + 326 pedestrians** detected  
-> `Python` `YOLOv8` `OpenCV` `Pandas`
+### 🚗 Road Lane Overlay — AV Perception Research
+> Peer-reviewed research restoring lane markings invisible in fog, rain & low light using a restore→detect→repair pipeline  
+> **12.3% FID improvement · 7.1% lane-F1 gain** evaluated across 62,532 dashcam images  
+> `Python` `PyTorch` `CLRerNet` `Computer Vision`
 
-### 📊 Interactive Fitness Dashboard
-> ML-powered data imputation + rich Vega-Lite visualizations  
-> **20% improvement** in data reliability  
-> `JavaScript` `Vega-Lite` `MongoDB` `HTML/CSS`
+### 🃏 Blackjack Reinforcement Learning Agent
+> Statistical decision-making model over **400K+ simulated scenarios**; diagnosed & corrected systematic model bias  
+> Designed full evaluation pipeline with reproducible methodology  
+> `Python` `PyTorch` `Statistical Evaluation`
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-**Languages**
+**Data & Analytics**
 
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-**ML / Data Science**
+**Visualization & Reporting**
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+
+**ML & Research**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
-**Web & Tools**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**Infrastructure & Tools**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 
 ---
 
@@ -91,8 +114,8 @@ I'm a grad student at Texas A&M building at the intersection of **machine learni
 
 <div align="center">
 
-*"Data is the new oil — I'm here to refine it."*
+*"Good data doesn't just answer questions — it asks better ones."*
 
-⭐ If you find my work interesting, drop a star on a repo!
+⭐ If you find my work interesting, feel free to explore my repos!
 
 </div>

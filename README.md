@@ -42,7 +42,8 @@ I'm a data professional with **2+ years of industry experience** (Tata Consultan
 
 **Data Science Intern — Sulzer India** *(Jun–Jul 2025)*
 - Built the prototype RAG system that became **SulzerGPT**, Sulzer's enterprise AI platform 
-  for engineering knowledge retrieval — ingesting **5,000+ technical PDFs** with semantic 
+  for engineering knowledge retrieval
+— ingesting **5,000+ technical PDFs** with semantic 
   chunking, embedding generation, FAISS vector search, and an API-based query interface
 - Improved retrieval relevance by **31% (NDCG@10)** via hard-negative mining and HNSW index 
   optimization; reduced query latency by **47%** (8.5s → 4.5s) through embedding batching 

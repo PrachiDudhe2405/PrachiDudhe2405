@@ -110,9 +110,9 @@ I'm a data professional with **2+ years of industry experience** (Tata Consultan
 
 <div align="center">
 
-![Prachi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrachiDudhe2405&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
+![Prachi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrachiDudhe2405&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrachiDudhe2405&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrachiDudhe2405&layout=compact&theme=radical&hide_border=true&cache_seconds=1800)
 
 </div>
 
